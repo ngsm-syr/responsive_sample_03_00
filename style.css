@@ -86,10 +86,6 @@ footer {
 
 @media all and (min-width: 600px) {
 
-  #wrap {
-    width: 84%;
-  }
-
   .main-menu ul {
     display: flex;
   }
@@ -116,6 +112,7 @@ footer {
 
 @media all and (max-width: 1025px) {
   #wrap {
+    width: 84%;
     max-width: 1280px;
   }
  
